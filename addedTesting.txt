@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 233git 
+=======
+>>>>>>> e2001fe (F1)
 ClearedNewBranch
