@@ -1,1 +1,11 @@
 ClearedNewBranch
+adding something on feature branch
+Testing
+More Testing
+Morte testing
+commit in master
+New Branch Commit
+This is the master commit
+New Commit In New Branch
+Master COmmit
+Master COmmit 2
