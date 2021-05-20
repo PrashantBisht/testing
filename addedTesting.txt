@@ -1,6 +1,0 @@
-Testing
-More Testing
-Morte testing
-commit in master
-New Branch Commit
-This is the master commit
