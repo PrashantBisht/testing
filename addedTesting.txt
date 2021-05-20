@@ -6,3 +6,5 @@ commit in master
 New Branch Commit
 This is the master commit
 New Commit In New Branch
+Master COmmit
+Master COmmit 2
